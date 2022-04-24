@@ -17,7 +17,8 @@ Nice to meet you, I'm Akib Hussain aka Coderakib
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderakib&theme=react)](https://github.com/coderakib/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderakib&theme=react)](https://github.com/coderakib/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderakib&langs_count=8)](https://github.com/coderakib/github-readme-stats)
 
 <br>
 
